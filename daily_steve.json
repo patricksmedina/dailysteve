@@ -6,5 +6,5 @@ Content-Type: application/json
   "titleText": "Daily Steveism for July 16, 2018",
   "mainText": "Daily wisdom from Steve",
   "streamUrl": "https://github.com/patricksmedina/dailysteve/blob/master/steveism_1.mp3",
-  "redirectionUrl": "https://www.linkedin.com/in/steve-medina-123941/"
+  "redirectionUrl": "https://www.linkedin.com"
 }
